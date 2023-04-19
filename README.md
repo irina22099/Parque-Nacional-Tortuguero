@@ -24,6 +24,8 @@
 
 ![](http://www.sinac.go.cr/ES/ac/acto/pnt/Galeria/Foto%202.jpg)
 
+<img src="http://www.sinac.go.cr/ES/ac/acto/pnt/Galeria/Foto%202.jpg" width="500">
+
 ###### Figura 2. *Tortuga Verde en temporada de anidación. Tomada de la Galería de la página del Parque Nacional Tortuguero.*
 
 #### Más información sobre este lugar y sus atractivos en [Parque Nacional Tortuguero](https://www.sinac.go.cr/ES/ac/acto/pnt/Paginas/default.aspx). 
