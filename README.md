@@ -1,4 +1,4 @@
-<center> <h1> **Parque Nacional Tortuguero** </h1> </center>  
+# **Parque Nacional Tortuguero**
 
 <img src="Cerro.jpg" width="900">   
 
