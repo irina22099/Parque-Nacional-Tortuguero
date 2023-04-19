@@ -22,7 +22,7 @@
 
 #### Además, se puede recorrer la comunidad que es muy pintoresca y alegre, visitar restaurantes con vista al mar o al lago y recorrer la playa.
 
-![](http://www.sinac.go.cr/ES/ac/acto/pnt/Galeria/_w/Foto%202_jpg.jpg)
+![](http://www.sinac.go.cr/ES/ac/acto/pnt/Galeria/Foto%202.jpg)
 
 ###### Figura 2. *Tortuga Verde en temporada de anidación. Tomada de la Galería de la página del Parque Nacional Tortuguero.*
 
