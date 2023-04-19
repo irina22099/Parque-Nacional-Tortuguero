@@ -22,11 +22,9 @@
 
 #### Además, se puede recorrer la comunidad que es muy pintoresca y alegre, visitar restaurantes con vista al mar o al lago y recorrer la playa.
 
-![](http://www.sinac.go.cr/ES/ac/acto/pnt/Galeria/Foto%202.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Costa_Rica_%286093931727%29.jpg/800px-Costa_Rica_%286093931727%29.jpg)
 
-<img src="http://www.sinac.go.cr/ES/ac/acto/pnt/Galeria/Foto%202.jpg" width="500">
-
-###### Figura 2. *Tortuga Verde en temporada de anidación. Tomada de la Galería de la página del Parque Nacional Tortuguero.*
+###### Figura 2. *Punto de llegada al pueblo de Tortuguero, a 600m del Parque.*
 
 #### Más información sobre este lugar y sus atractivos en [Parque Nacional Tortuguero](https://www.sinac.go.cr/ES/ac/acto/pnt/Paginas/default.aspx). 
 
